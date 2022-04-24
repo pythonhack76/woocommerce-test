@@ -1,0 +1,11 @@
+.footer-agency {
+    margin-left: 20px;
+    background-color: beige;
+    font-size: small;
+    font-weight: 400;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer-agency p {
+    color: red;
+}
