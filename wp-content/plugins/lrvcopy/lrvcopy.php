@@ -3,7 +3,7 @@
 /*
 Plugin Name:  Lrvcopy
 Version    :  1.0
-Description:  Demonstrating WordPress Hooks (Actions and Filters) with multiple examples.
+Description:  a simple plugin about many solutions to modify the admin page.
 Author     :  Sprite Coder
 Author URI :  https://www.spritecoder.com/
 License    :  GPLv2 or later
